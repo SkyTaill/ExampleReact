@@ -1,0 +1,19 @@
+body {
+    background: #20262E;
+    padding: 20px;
+    font-family: Helvetica;
+}
+
+#app {
+    background: #fff;
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+
+.cords {
+    height: 140px;
+    text-align: center;
+    font-size: 14px;
+    color: #999;
+    line-height: 140px;
+}

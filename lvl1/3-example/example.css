@@ -1,0 +1,40 @@
+body {
+    background: #20262E;
+    padding: 20px;
+    font-family: Helvetica;
+}
+
+#app {
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    transition: all 0.2s;
+}
+
+.card {
+    position: relative;
+    border: 1px solid #bbb;
+    height: 30px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+img {
+    border-radius: 15px;
+}
+
+.card-data {
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+
+.name {
+    font-size: 14px;
+    color: #333;
+}
+
+.email {
+    font-size: 12px;
+    color: #888;
+}
