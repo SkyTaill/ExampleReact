@@ -24,3 +24,5 @@
 
 
 Полезная ссылка:https://github.com/SkillfactoryCoding/learn-react/tree/main/src
+
+Паттерны: https://habr.com/ru/post/309422/
