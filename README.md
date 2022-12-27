@@ -26,3 +26,5 @@
 Полезная ссылка:https://github.com/SkillfactoryCoding/learn-react/tree/main/src
 
 Паттерны: https://habr.com/ru/post/309422/
+
+Пример работы Route: https://github.com/SkillfactoryCoding/learn-react/blob/main/src/routing/history-api-route.js , https://github.com/SkillfactoryCoding/learn-react/blob/main/src/routing/old-fashion-route.js
